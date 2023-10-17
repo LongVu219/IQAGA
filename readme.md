@@ -1,6 +1,6 @@
 # Title
 
-Non-Official PyTorch implementation of []()
+Non-Official PyTorch implementation of [Image Quality Assessment-Driven Learning with StarGAN-Based Dataset Augmentation for Cross-Domain Person Re-Identification]()
 
 # Updates
 *   [02/2023] Push Initial rep on Github
