@@ -14,9 +14,9 @@ Non-Official PyTorch implementation of []()
 
 ## Installation
 ```bash
-git clone https://github.com/ewigspace1910/xxxxx
-conda create --name XX
-conda activate XX
+git clone https://github.com/LongVu219/IQAGA.git
+conda create --name IQAGA
+conda activate IQAGA
 pip install -r requirements.txt
 ```
 
